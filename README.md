@@ -26,8 +26,9 @@ for commit : git commit -m "message"
 
 for adding all changes in one time use :
         git add .
-        
+
 for pushing : git push origin main
-        her origin refers to the original repo which we cloned
+
+        here origin refers to the original repo which we cloned
         and main refers to the branch name to which we pushes our changes
 
