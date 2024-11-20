@@ -5,6 +5,10 @@ Author- Vivek Verma
 <br>
 Currently learning git through VS Code terminal
 
+-> this contains instructions regarding cloning a git hub repo to our local system
+   and then making changes to it, adding and commiting changes 
+   and push it back to our git hub repo
+
 for cloning remote repo to our local system:
         git clone <link>
 for checking status:
